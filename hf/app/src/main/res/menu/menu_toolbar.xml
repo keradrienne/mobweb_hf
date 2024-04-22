@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_main"
+        android:icon="@drawable/ic_action_home"
+        android:title="@string/main"
+        android:iconTint="@color/white"
+        app:showAsAction="ifRoom">
+    </item>
+    <item
+        android:id="@+id/menu_details"
+        android:icon="@drawable/ic_action_details"
+        android:title="@string/details"
+        app:showAsAction="ifRoom">
+    </item>
+    <item
+        android:id="@+id/menu_notification"
+        android:icon="@drawable/ic_action_notifications"
+        android:title="@string/notifications"
+        app:showAsAction="ifRoom">
+    </item>
+</menu>

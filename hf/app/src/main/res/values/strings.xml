@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Drink!</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount (ml)</string>
+    <string name="time">Time</string>
+    <string name="new_liquid_item">New liquid</string>
+    <string name="modify_liquid_item">Modify liquid</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="main">Main</string>
+    <string name="details">Details</string>
+    <string name="notifications">Notifications</string>
+    <string name="todays_water_consuption">Today\'s water consuption</string>
+    <string name="_8_00">8:00</string>
+    <string name="_10_00">10:00</string>
+    <string name="_12_00">12:00</string>
+    <string name="_14_00">14:00</string>
+    <string name="_16_00">16:00</string>
+    <string name="_18_00">18:00</string>
+    <string name="_20_00">20:00</string>
+    <string name="reminders_notification_channel_id">0</string>
+    <string name="reminders_notification_channel_name">Drink!</string>
+    <string name="results_in_this_day">Results in this day:</string>
+
+    <string-array name="category_items">
+        <item>Water</item>
+        <item>Coffee</item>
+        <item>Tea</item>
+    </string-array>
+</resources>
