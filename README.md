@@ -6,8 +6,7 @@ Információk [itt](https://viauac00.github.io/laborok/hf)
 ### [2023.10.15.]
 ### [Drink!]
 ### [Kerekes Adrienne]
-### [ker.adrienne@gmail.com] 
-### Laborvezető: [Hudák János]
+### [ker.adrienne@gmail.com]
 
 ## Bemutatás
 
